@@ -3,7 +3,7 @@
         "host": "localhost",
         "port": 5432,
         "user": "user",
-        "password": "<YOUR_SECURE_PASSWORD>"
+        "password": "YOUR_SECURE_PASSWORD_HERE"
     },
     "server": {
         "port": 3000
