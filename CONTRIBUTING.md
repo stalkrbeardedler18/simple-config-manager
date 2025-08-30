@@ -9,5 +9,8 @@ Thank you for your interest in contributing! Please follow the guidelines below.
 4. Ensure your code passes all tests.
 5. Submit a pull request detailing your changes.
 
+## Reporting Issues
+If you encounter any bugs or have feature requests, please open an issue in the repository.
+
 ## Code of Conduct
 Please ensure to follow the code of conduct during your contributions.
